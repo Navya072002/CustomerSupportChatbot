@@ -5,7 +5,7 @@ import sqlite3
 import os
 
 # Load your OpenAI API key
-OpenAI.api_key = "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"
+OpenAI.api_key = "API key"
 
 # Prompt for GPT-3.5 Turbo
 SYSTEM_PROMPT ="""This is a customer feedback taking bot. It can take feed back related to specefic products and at the same time address consumer concerns. 
